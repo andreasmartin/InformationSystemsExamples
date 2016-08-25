@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=url\ rb
+comment0.target=void\ initialize(java.net.URL,\ java.util.ResourceBundle)
+numComments=1

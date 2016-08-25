@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=javafx.collections.ObservableList\ getData()
+comment1.params=
+comment1.target=void\ initIfEmpty()
+comment2.params=firstName\ lastName
+comment2.target=Customer\ createCustomer(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ deleteInitData()
+numComments=4

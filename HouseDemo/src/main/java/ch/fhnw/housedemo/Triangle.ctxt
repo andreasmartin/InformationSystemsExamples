@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Triangle()
+comment1.params=newSize
+comment1.target=void\ changeSize(int)
+comment2.params=newHeight\ newWidth
+comment2.target=void\ changeSize(int,\ int)
+comment3.params=
+comment3.target=void\ draw()
+numComments=4

@@ -1,0 +1,33 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ draw()
+comment1.params=shape
+comment1.target=void\ draw(java.awt.Shape)
+comment10.params=
+comment10.target=void\ erase()
+comment10.text=\r\n\ Erase\ the\ element\ on\ screen.\r\n
+comment2.params=
+comment2.target=void\ moveRight()
+comment2.text=\r\n\ Move\ the\ element\ a\ few\ pixels\ to\ the\ right.\r\n
+comment3.params=
+comment3.target=void\ moveLeft()
+comment3.text=\r\n\ Move\ the\ element\ a\ few\ pixels\ to\ the\ left.\r\n
+comment4.params=
+comment4.target=void\ moveUp()
+comment4.text=\r\n\ Move\ the\ element\ a\ few\ pixels\ up.\r\n
+comment5.params=
+comment5.target=void\ moveDown()
+comment5.text=\r\n\ Move\ the\ element\ a\ few\ pixels\ down.\r\n
+comment6.params=distance
+comment6.target=void\ moveHorizontal(int)
+comment6.text=\r\n\ Move\ the\ element\ horizontally\ by\ 'distance'\ pixels.\r\n
+comment7.params=distance
+comment7.target=void\ moveVertical(int)
+comment7.text=\r\n\ Move\ the\ element\ vertically\ by\ 'distance'\ pixels.\r\n
+comment8.params=newSize
+comment8.target=void\ changeSize(int)
+comment8.text=\r\n\ Change\ the\ size\ to\ the\ new\ size\ (in\ pixels).\ Size\ must\ be\ >\=\ 0.\r\n
+comment9.params=newColor
+comment9.target=void\ changeColor(java.lang.String)
+comment9.text=\r\n\ Change\ the\ color.\ Valid\ colors\ are\ "red",\ "yellow",\ "blue",\ "green",\r\n\ "magenta"\ and\ "black".\r\n
+numComments=11
